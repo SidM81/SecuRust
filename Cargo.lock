@@ -332,7 +332,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "pword"
+name = "secu_rust"
 version = "0.1.0"
 dependencies = [
  "base64 0.22.0",
